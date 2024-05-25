@@ -376,7 +376,7 @@ h1{
   padding-top: 10vh ;
 }
 h3, p{
-  font-size: 1vw;
+  font-size: 5vw;
   color: rgba(194, 223, 211, 1) ;
   padding-bottom: 2vh ;
   
@@ -385,7 +385,7 @@ h3, p{
 
 
 h1, h3, p {
-  width: 50vw;
+  width: 80vw;
   padding-left: 10vw ;
   font-family: optima ;
   
