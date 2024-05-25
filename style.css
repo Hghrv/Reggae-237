@@ -1,5 +1,77 @@
 
 
+
+
+#vd {
+  background-color: rgba(100, 197, 226, 0.4) ;
+  border-radius: 10px ;
+
+}
+
+
+#rdrct {
+  border-radius: 50% ;
+}
+
+video {
+  border-radius: 10px ;
+}
+
+p.video {
+  margin-botton: 20vh ;
+}
+
+.vidbgd {
+  background-color: lightgoldenrodyellow ;
+  position: relative;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100% ;
+  min-height: 50vh ;
+  margin-bottom: 0;
+  transform: translateX(-10vw) ;
+  display: flex;
+  overflow-x: hidden;
+}
+
+
+.pcs{
+  height: 15vw  ;
+  width: 15vw ;
+}
+
+
+
+.plybtn{ 
+  
+  background: lightblue ;
+  index: -1 ;
+  width: 8vw ;
+  height: 2vw ;
+  transform: translateX(3vw) translateY(-8vw)
+}
+
+.prvbtn{ 
+  opacity: 0.8 ;
+  background: lightblue ;
+  index: -1 ;
+  width: 8vw ;
+  height: 2vw ;
+  transform: translateX(3vw) translateY(-8vw)
+}
+
+.nxtbtn{ 
+  opacity: 0.8 ;
+  background: lightblue ;
+  index: -1 ;
+  width: 8vw ;
+  height: 2vw ;
+  transform: translateX(3vw) translateY(-8vw)
+}
+
+
+
 /* Video background */
 
 .pg {
