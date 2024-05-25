@@ -379,7 +379,7 @@ h3, p{
   font-size: 5vw;
   color: rgba(194, 223, 211, 1) ;
   padding-bottom: 2vh ;
-  
+  max-width: 70vw;
 }
 
 
