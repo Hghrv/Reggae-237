@@ -46,7 +46,7 @@ p.video {
 .plybtn{ 
   
   background: lightblue ;
-  index: -1 ;
+  index: 1 ;
   width: 8vw ;
   height: 2vw ;
   transform: translateX(3vw) translateY(-8vw)
@@ -55,7 +55,7 @@ p.video {
 .prvbtn{ 
   opacity: 0.8 ;
   background: lightblue ;
-  index: -1 ;
+  index: 1 ;
   width: 8vw ;
   height: 2vw ;
   transform: translateX(3vw) translateY(-8vw)
@@ -64,7 +64,7 @@ p.video {
 .nxtbtn{ 
   opacity: 0.8 ;
   background: lightblue ;
-  index: -1 ;
+  index: 1 ;
   width: 8vw ;
   height: 2vw ;
   transform: translateX(3vw) translateY(-8vw)
